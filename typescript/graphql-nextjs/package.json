@@ -12,9 +12,9 @@
   },
   "dependencies": {
     "@apollo/client": "3.7.10",
-    "@pothos/plugin-prisma": "3.47.1",
     "@pothos/core": "3.29.0",
-    "@prisma/client": "4.12.0",
+    "@pothos/plugin-prisma": "3.47.1",
+    "@prisma/client": "4.13.0-dev.9",
     "graphql": "16.6.0",
     "graphql-scalars": "1.21.3",
     "graphql-yoga": "3.8.0",
@@ -27,7 +27,7 @@
     "@types/graphql": "14.5.0",
     "@types/node": "18.15.11",
     "@types/react": "18.0.31",
-    "prisma": "4.12.0",
+    "prisma": "4.13.0-dev.9",
     "ts-node": "10.9.1",
     "typescript": "4.9.5"
   },
